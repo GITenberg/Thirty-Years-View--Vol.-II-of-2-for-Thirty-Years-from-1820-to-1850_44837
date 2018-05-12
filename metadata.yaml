@@ -1,0 +1,29 @@
+_repo: Thirty-Years-View--Vol.-II-of-2-for-Thirty-Years-from-1820-to-1850_44837
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44837-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Benton, Thomas Hart
+    alias: Benton, Thomas H. (Thomas Hart)
+    birthdate: 1782
+    deathdate: 1858
+    gutenberg_agent_id: '378'
+    url: http://www.gutenberg.org/2009/agents/378
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hart_Benton_(senator)
+description: ''
+gutenberg_issued: '2014-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1815-1861'
+- !lcc 'E300'
+title: "Thirty Years' View (Vol. 2 of 2)\r\nor, A History of the Working of the American\
+  \ Government for Thirty Years, from 1820 to 1850"
+url: http://www.gutenberg.org/ebooks/44837
