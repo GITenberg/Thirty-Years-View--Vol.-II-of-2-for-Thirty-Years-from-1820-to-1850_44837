@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/378
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Hart_Benton_(senator)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44837#Thirty-Years-View--Vol.-II-of-2-for-Thirty-Years-from-1820-to-1850
 gutenberg_issued: '2014-02-05'
 gutenberg_type: Text
 identifiers:
